@@ -22,7 +22,6 @@ public class PantipCreator extends AccountCreator {
             System.out.println("Please Try again check for sure you insert correct Id Card Number : ");
             this.InsertPersonalId();
         } 
-            
         }catch(Exception e){
             System.out.println("Error");
         }  
